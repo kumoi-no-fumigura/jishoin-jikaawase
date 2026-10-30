@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jishoin-jikaawase",
  "yomi": "じしょういんどのおんじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（五十番）",
+  "era": "室町中期",
+  "author": "足利義政（自撰）、判者 飛鳥井雅親（栄雅）",
+  "desc": "足利義政（慈照院）が自詠を五十番に番えた自歌合。雅親が判を加え、跋に、名を隠して示された歌がすべて義政の御歌と後で知ったと記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
